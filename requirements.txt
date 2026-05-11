@@ -1,0 +1,5 @@
+pandas
+jupyter
+openai
+matplotlib
+seaborn
