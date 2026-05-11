@@ -65,7 +65,7 @@
 ## 4. API 配置
 - **LLM 供应商**：DeepSeek
 - **模型名**：`deepseek-v4-flash`
-- **API Key**：`sk-f18d6cba83bb4459a3fdba16d20b003d`
+- **API Key**：通过环境变量 `DEEPSEEK_API_KEY` 提供（不写入代码/仓库）
 
 ## 5. 预期交付物
 1. Git 远程仓库：`https://github.com/zfff-labb/score_flgpt`（包含完整的模块提交记录）。
